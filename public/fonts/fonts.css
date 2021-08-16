@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FuturaNewLight-Obl';
+    src: local('FuturaNewLight-Obl'), url('../fonts/FuturaNewLight-Obl.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'FuturaNewLight-Reg';
+    src: local('FuturaNewLight-Reg'), url('../fonts/FuturaNewLight-Reg.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'FuturaNewDemi-Reg';
+    src: local('FuturaNewDemi-Reg'), url('../fonts/FuturaNewDemi-Reg.woff2') format('woff2');
+    font-weight: 300;
+}

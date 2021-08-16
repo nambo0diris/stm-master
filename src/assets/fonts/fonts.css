@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'MyFont';
+    src: local('MyFont'), url('../..aNewDemi-Reg.woff2') format('woff2');
+    /* other formats include: 'woff2', 'truetype, 'opentype',
+                              'embedded-opentype', and 'svg' */
+}
